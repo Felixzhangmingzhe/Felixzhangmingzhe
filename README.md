@@ -18,4 +18,4 @@ Welcome to Felixzhangmingzhe's profile page!
 
 <br>
 
-[![Felixzhangmingzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felixzhangmingzhe&include_all_commits=true&show_icons=true&count_private=true&theme=dark&show_owner=true)](https://github.com/Felixzhangmingzhe/Felixzhangmingzhe)
+[![Felixzhangmingzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felixzhangmingzhe&show_icons=true&count_private=true&theme=dark&show_owner=true)](https://github.com/Felixzhangmingzhe/Felixzhangmingzhe)
